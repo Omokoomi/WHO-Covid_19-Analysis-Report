@@ -3,7 +3,7 @@
 ### This is even smaller (h3)
 #### This is very small (h4)
 ## Table of Contents
-1. [Introduction]
+1. [Project Overview](#Project Overview)
 2. [Installation](#Data Source)
 3. [Usage](#Tool Used)
 4. [Contributing](#contributing)
