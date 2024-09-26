@@ -4,10 +4,13 @@
 #### This is very small (h4)
 ## Table of Contents
 1. [Poject Overview](#license)
-2. [License](#license)
-3. [License](#license)
-4. [Contributing](#contributing)
-5. [License](#license)
+2. [Data Source](#license)
+3. [Tool Used](#license)
+4. [Data Preparation and Data Cleansing](#contributing)
+5. [Data Analysis](#license)
+6. [Visualization on Power-BI](#license)
+7. [Findings](#license)\
+8. [Limitations](#license)
 
 ## Introduction
 This is the introduction section.
