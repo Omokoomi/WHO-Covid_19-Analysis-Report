@@ -1,13 +1,12 @@
 # WHO Covid_19 Analysis Report 
-
-1. [Project Overview](#Project Overview)
-2. [Data Source](#license)
-3. [Tool Used](#license)
-4. [Data Preparation and Data Cleansing](#contributing)
-5. [Data Analysis](#license)
-6. [Visualization on Power-BI](#license)
-7. [Observations](#license)
-8. [Limitation](#license)
+1. [Project Overview](#project-overview)
+2. [Data Source](#data-source)
+3. [Tools Used](#tools-used)
+4. [Data Preparation and Data Cleansing](#data-preparation-and-data-cleansing)
+5. [Data Analysis](#data-analysis)
+6. [Visualization on Power-BI](#visualization-on-power-bi)
+7. [Observations](#observations)
+8. [Limitation](#limitation)
 
 ## Project Overview
 The aim and objective of this WHO Covid_19 analysis is to provides comprehensive and timely information about the covid-19 pandemic. By analyzing the WHO Covid_19 dataset, we tend to uncover the trend of it"s cases across all the WHO regions internationally, discover it" rate and effect in different countries across all regions, it<s reported cases to it<s death coverage. Also by doing this analysis, we uncover the countries with the most recent cases recorded on Covid_19 by WHO. Succinctly, this analysis would tend to show a more clearer description and coverage of Covid_19 cases and death rate even in unknown regions and locations.
