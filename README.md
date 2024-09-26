@@ -3,9 +3,9 @@
 ### This is even smaller (h3)
 #### This is very small (h4)
 ## Table of Contents
-1. [Project Overview](#Project Overview)
-2. [Installation](#Data Source)
-3. [Usage](#Tool Used)
+1. [Poject Overview](#license)
+2. [License](#license)
+3. [License](#license)
 4. [Contributing](#contributing)
 5. [License](#license)
 
