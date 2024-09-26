@@ -1,6 +1,6 @@
 # WHO Covid_19 Analysis Report 
 
-1. [Project Overview](#license)
+1. [Project Overview](#Project Overview)
 2. [Data Source](#license)
 3. [Tool Used](#license)
 4. [Data Preparation and Data Cleansing](#contributing)
